@@ -40,7 +40,7 @@ body {
     flex-direction: column;
     width: 100%;
     align-items: center;
-    color: #FFF
+    color: #dfb911
 }
 
 .header-title {
@@ -172,7 +172,7 @@ textarea {
 .generate-button {
     place-content: flex-start;
     align-items: flex-start;
-    background-color: rgb(255, 79, 18);
+    background-color: rgb(189, 221, 10);
     border-radius: 100px;
     display: flex;
     flex: 0 0 auto;
@@ -198,7 +198,7 @@ textarea {
 }
 
 .generate p {
-    color: rgb(255, 255, 255);
+    color: rgb(3, 70, 25);
     margin: 0;
 }
 
