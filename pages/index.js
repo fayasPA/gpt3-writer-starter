@@ -86,6 +86,19 @@ const callGenerateEndpoint = async () => {
           </div>
         </a>
       </div>
+
+      <div className="credits-container">
+        <a
+          href="https://www.linkedin.com/in/fayas-p-a-328748142/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <div className="linked-in">
+            <p>@fayas_muthaleef</p>
+          </div>
+        </a>
+      </div>
+
     </div>
   );
 };
